@@ -1,6 +1,6 @@
 ## Hi, I'm Hemil Patel👋
 
-I'm a computer science master's student at stevens institute of technology. I have 3 years of work experience as a **data scientist** working in India. I'm skilled in python, statistical data analysis, data science, deep learning and machine learning. I've worked for various startups in the past and have built applications from scratch with modern web technologies. I'm someone who is always on the lookout for modern tools that would improve the experience of both the developers and end-users. 
+I'm a computer science master's student at stevens institute of technology. I have 3 years of work experience as a **data scientist** working in India. I'm skilled in python, statistical data analysis, data science, deep learning and machine learning. I've worked for various startups in the past and have built ML models and Data analytics dashboard from scratch using python and various visulization tools. I'm someone who is always on the lookout for modern tools that would improve the experience of both the developers and end-users. 
 ### Technologies I've worked with:
 - Python
 - Node.js
