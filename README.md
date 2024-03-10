@@ -4,7 +4,7 @@ I'm a computer science master's student at stevens institute of technology. I ha
 ### Technologies I've worked with:
 - Python
 - Node.js
-- React
+- React.js
 - MongoDB
 - MySQL
 
