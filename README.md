@@ -1,6 +1,6 @@
 ## Hello, I'm Hemil Patel👋
 
-I'm a computer science master's student at stevens institute of technology. I have 3 years of work experience as a **data scientist** working in India. I'm skilled in python, statistical data analysis, data science, deep learning and machine learning. I've worked for various startups in the past and have built ML models and Data analytics dashboard from scratch using python and various visualization tools. Now I want to transition into a Software Engineer role. I'm someone who is always on the lookout for modern tools that would improve the experience of both the developers and end-users. 
+I'm a Computer Science master's student at Stevens Institute of Technology, bringing three years of industry experience as a data scientist in India. Throughout my career, I've excelled in implementing robust ML algorithms using Python and designing interactive dashboards and reports with visualization tools. Now, I'm keen on pivoting towards a Software Engineer role, as it represents a natural progression that aligns with my passion for problem-solving on a broader scale. I see an opportunity to leverage my expertise to architect elegant solutions, optimize performance, and tackle multifaceted challenges inherent in building robust, scalable systems, while continuing to embrace cutting-edge tools, frameworks, and principles to expand my skill set and deepen my understanding of the ever-evolving tech landscape. 
 ### Technologies I've worked with:
 - Python
 - Node
