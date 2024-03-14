@@ -1,6 +1,6 @@
 ## Hello, I'm Hemil Patel👋
 
-I'm a Computer Science master's student at Stevens Institute of Technology, bringing three years of industry experience. Throughout my career, I've excelled in implementing, scaling and deplyoing robust ML algorithms using Python & JavaScript and designing interactive dashboards and reports with visualization tools such as PowerBI. While continuing to embrace cutting-edge tools, frameworks, and principles to expand my skill set and deepen my understanding of the ever-evolving tech landscape.
+I'm a Computer Science master's student at Stevens Institute of Technology, bringing three years of industry experience as a data scientist in India. Throughout my career, I've excelled in implementing, scaling and deplyoing robust ML algorithms using Python & JavaScript and designing interactive dashboards and reports with visualization tools. I see an opportunity to leverage my expertise to architect elegant solutions, optimize performance, and tackle multifaceted challenges inherent in building robust, scalable systems. I'm excited by the prospect of diving deeper into the challenges that software engineering presents. while continuing to embrace cutting-edge tools, frameworks, and principles to expand my skill set and deepen my understanding of the ever-evolving tech landscape. 
 ### Technologies I've worked with:
 - Python
 - Node
