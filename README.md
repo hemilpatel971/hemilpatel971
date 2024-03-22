@@ -1,6 +1,6 @@
 ## Hello, I'm Hemil Patel👋
 
-I'm a Computer Science master's student at Stevens Institute of Technology - USA, with over three years of industry experience. I love implementing, scaling and deplyoing robust machine learning models and web apps in **Python** and **JavaScript**.I actively seek to embrace cutting-edge tools, frameworks, and principles to expand my skill set and deepen my understanding of the ever-evolving tech landscape.
+I'm a Computer Science master's student at Stevens Institute of Technology - USA, with over three years of industry experience as **Machine/Software Engineer**. I love implementing, scaling and deplyoing robust machine learning models and web apps in **Python** and **JavaScript**. I actively seek to embrace cutting-edge tools, frameworks, and principles to expand my skill set and deepen my understanding of the ever-evolving tech landscape.
 
 ### Technologies I've worked with:
 - Python
