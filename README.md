@@ -4,6 +4,7 @@ I'm currently working at **Onsemi, USA** as a Software Engineer. I graduated fro
   
 ### Technologies I've worked with:
 - Python
+- Java
 - Node
 - React
 - MongoDB
